@@ -158,11 +158,14 @@ img {
 }
 
 header {
+  font-size: 12px; 
   width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+header img {margin-right: 10px;}
 
 header ul {
   list-style:none;
