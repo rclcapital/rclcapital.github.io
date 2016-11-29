@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Asset allocation services from RCL Capital Management in Pittsburgh</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>RCL Capital</h1>
+        <p><small>A Certified Financial Advisor serving investors in greater Pittsburgh, Pennsylvania – Wexford, Cranberry, Marshall, Bradford Woods, Pine, Richland, McCandless, Ross – and beyond since 1997.</small></p>
+      </header>
+      <section>
+<h1>Asset Allocation</h1>
+<p>Our asset allocation expertise will help you determine how much of your investment portfolio should be invested in cash, bonds, stocks or real estate.</p>
+<p>The first step is to help you understand your tolerance for risk and volatility. We’ll achieve this by developing a close personal relationship which will help us answer crucial questions:</p>
+<ul>
+<li>Can you withstand a significant decline in the value of your portfolio?</li>
+<li>Do you need to obtain a specified rate of return in order to accomplish their investment objectives?</li>
+<li>When will you need to access various portions of you investment portfolio?</li>
+</ul>
+<p>With us, you’ll enter into an ongoing educational process that fosters sound decisions about the various options and the expected results that can be reasonably expected from each of those options.</p>
+<p>For effective asset allocation, your goals will be identified, your risk tolerance evaluated, and a personalized portfolio will be implemented and monitored thereafter.</p>
+
+</section>
+      <footer>
+        <p><small>Asset Allocation | Retirement Planning | College Planning | Estate Planning | IRA and 401(k) Rollovers | Investment Tax Planning | Services</small></p>
+
+        <!-- Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
+
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+
+  </body>
+</html>
