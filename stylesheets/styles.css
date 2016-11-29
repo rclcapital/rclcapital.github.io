@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:##222020;
+  color:##A09F9A;
   font-weight:400;
 }
 
@@ -230,7 +230,7 @@ section {
 }
 
 small {
-  font-size:12px;
+  font-size:11px;
 }
 
 hr {
