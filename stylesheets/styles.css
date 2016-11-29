@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#929090;
+  color:#666562;
   font-weight:400;
 }
 
@@ -165,7 +165,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header img {margin: 0 15px 20px 0;}
+header img {margin: 0 20px 20px 0;}
 
 header ul {
   list-style:none;
