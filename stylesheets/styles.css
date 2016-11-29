@@ -144,14 +144,14 @@ img {
 }
 
 header {
-  font-size: 13px;
+  font-size: 14px;
   width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header img {margin: 0 20px 20px 0;}
+header img {margin: 0 30px 20px 0;}
 
 header ul {
   list-style:none;
@@ -196,7 +196,7 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
-.introduction {color: #996600;}
+header, section .introduction {color: #996600;}
 
 strong {
   font-weight:700;
