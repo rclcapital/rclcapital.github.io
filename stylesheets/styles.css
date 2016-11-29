@@ -87,25 +87,11 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-a {
-  color:#6699FF;
-  text-decoration:none;
-}
-
-a:hover {
-  color:#069;
-}
-
-a small {
-  font-size:11px;
-  color:#6699FF;
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:#777;
-}
+a:link    {color: #6699FF; text-decoration: underline;}
+a:visited {color: #808080; text-decoration: underline;}
+a:hover:visited {color: #000; text-decoration: underline;}
+a:hover   {color: #000; text-decoration: underline;}
+a:active  {color: #663300 text-decoration: underline;color: #990000; color: #000;}
 
 .wrapper {
   width:860px;
@@ -232,7 +218,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
 }
 
 hr {
