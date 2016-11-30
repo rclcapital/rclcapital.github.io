@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 15px/1.5 Georgia, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#333;
+  color:#7F7E7E;
   font-weight:400;
 }
 
@@ -196,7 +196,7 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
-header, section .introduction {color: #996600;}
+header, section .introduction {color: #7F7E7E;}
 
 strong {
   font-weight:700;
