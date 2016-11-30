@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 16px Georgia, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#787676;
+  color:#767575;
   font-weight:400;
 }
 
@@ -84,7 +84,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#2B2A2A;
 }
 
 a:link    {color: #6699FF; text-decoration: underline;}
