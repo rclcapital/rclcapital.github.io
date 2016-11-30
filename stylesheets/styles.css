@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 15px/1.5 Georgia, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#7F7E7E;
+  color:#787676;
   font-weight:400;
 }
 
@@ -144,14 +144,14 @@ img {
 }
 
 header {
-  font-size:15px;
+  font-size:13px;
   width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header img {margin: 0 30px 20px 0;}
+header img {margin: 0 20px 40px 0;}
 
 header ul {
   list-style:none;
@@ -220,7 +220,7 @@ section {
 }
 
 small {
-  font-size:12px;
+  font-size:13px;
 }
 
 hr {
