@@ -197,7 +197,7 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
-header, section .introduction {color: #7F7E7E;}
+header, section .introduction {color: #111;}
 
 strong {
   font-weight:700;
